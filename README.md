@@ -23,7 +23,7 @@ Exploratory machine learning project on 200 products from a Sephora best-seller 
 
 ## Data
 
-Copied from a Sephora product listing page (prices and availability shown for ZIP 75052) and organized into one row per product.
+Copied from a Sephora product listing page and organized into one row per product.
 
 | Column | Description |
 |---|---|
